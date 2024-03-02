@@ -1,14 +1,136 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "products": [
+        {
+            "title": "My Product 1",
+            "description": "The first of its kind, offering unparalleled performance.",
+            "original_price": "1200",
+            "discount_price": "1100",
+            "currency": "USD",
+            "country_code": "US",
+            "category": "electronics",
+            "verified": true,
+            "target_link": "https://example.com/product1"
+        },
+        {
+            "title": "My Product 2",
+            "description": "Eco-friendly and efficient, this product is ahead of its time.",
+            "original_price": "1500",
+            "discount_price": "1400",
+            "currency": "EUR",
+            "country_code": "DE",
+            "category": "home appliances",
+            "verified": true,
+            "target_link": "https://example.com/product2"
+        },
+        {
+            "title": "My Product 3",
+            "description": "Compact, durable, and powerful, perfect for on-the-go.",
+            "original_price": "500",
+            "discount_price": "450",
+            "currency": "GBP",
+            "country_code": "UK",
+            "category": "electronics",
+            "verified": false,
+            "target_link": "https://example.com/product3"
+        },
+        {
+            "title": "My Product 4",
+            "description": "A game-changer in its category, offering best-in-class features.",
+            "original_price": "800",
+            "discount_price": "750",
+            "currency": "CAD",
+            "country_code": "CA",
+            "category": "sports",
+            "verified": true,
+            "target_link": "https://example.com/product4"
+        },
+        {
+            "title": "My Product 5",
+            "description": "Unmatched quality and craftsmanship, a true luxury item.",
+            "original_price": "2200",
+            "discount_price": "2000",
+            "currency": "CHF",
+            "country_code": "CH",
+            "category": "fashion",
+            "verified": true,
+            "target_link": "https://example.com/product5"
+        },
+        {
+            "title": "My Product 6",
+            "description": "Innovative design meets functionality, a must-have for professionals.",
+            "original_price": "950",
+            "discount_price": "900",
+            "currency": "JPY",
+            "country_code": "JP",
+            "category": "office supplies",
+            "verified": false,
+            "target_link": "https://example.com/product6"
+        },
+        {
+            "title": "My Product 7",
+            "description": "Bringing the latest technology to your home with ease and style.",
+            "original_price": "1300",
+            "discount_price": "1250",
+            "currency": "AUD",
+            "country_code": "AU",
+            "category": "home appliances",
+            "verified": true,
+            "target_link": "https://example.com/product7"
+        },
+        {
+            "title": "My Product 8",
+            "description": "Redefining comfort and efficiency, with cutting-edge advancements.",
+            "original_price": "1100",
+            "discount_price": "1050",
+            "currency": "CNY",
+            "country_code": "CN",
+            "category": "furniture",
+            "verified": false,
+            "target_link": "https://example.com/product8"
+        },
+        {
+            "title": "My Product 9",
+            "description": "A blend of tradition and innovation, for discerning customers.",
+            "original_price": "1600",
+            "discount_price": "1500",
+            "currency": "INR",
+            "country_code": "IN",
+            "category": "jewelry",
+            "verified": true,
+            "target_link": "https://example.com/product9"
+        },
+        {
+            "title": "My Product 10",
+            "description": "Experience the ultimate in performance and reliability.",
+            "original_price": "2000",
+            "discount_price": "1900",
+            "currency": "BRL",
+            "country_code": "BR",
+            "category": "automotive",
+            "verified": true,
+            "target_link": "https://example.com/product10"
+        },
+        {
+            "title": "My Product 11",
+            "description": "A pioneer in its field, setting new standards for others to follow.",
+            "original_price": "1700",
+            "discount_price": "1650",
+            "currency": "RUB",
+            "country_code": "RU",
+            "category": "technology",
+            "verified": false,
+            "target_link": "https://example.com/product11"
+        },
+        {
+            "title": "My Product 12",
+            "description": "Where elegance meets functionality, for those who want the best.",
+            "original_price": "1400",
+            "discount_price": "1350",
+            "currency": "SEK",
+            "country_code": "SE",
+            "category": "home decor",
+            "verified": true,
+            "target_link": "https://example.com/product12"
+        }
+    ]
 }
