@@ -1,11 +1,9 @@
 {
     "title": "My Product 1",
-    "description": "The first of its kind, offering unparalleled performance.",
-    "original_price": "1200",
-    "discount_price": "1100",
+    "original_price": 1200,
+    "discount_price": 1100,
     "currency": "USD",
     "country_code": "US",
     "category": "electronics",
-    "verified": true,
     "target_link": "https://example.com/product1"
 }
