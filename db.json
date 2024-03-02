@@ -1,9 +1,4 @@
 {
     "title": "My Product 1",
-    "original_price": 1200,
-    "discount_price": 1100,
-    "currency": "USD",
-    "country_code": "US",
-    "category": "electronics",
-    "target_link": "https://example.com/product1"
+    "original_price": 1200
 }
