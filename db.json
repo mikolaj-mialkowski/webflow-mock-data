@@ -1,0 +1,11 @@
+{
+  "title": "My Product 1",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel auctor neque, ut sollicitudin nulla. Suspendisse potenti. Praesent nibh purus, fringilla nec arcu at, congue aliquam enim. Nulla magna risus, cursus et finibus eget, porta ut dui. Ut libero metus, vulputate sit amet justo semper, sagittis venenatis nibh. In libero purus, commodo quis fermentum id, condimentum ac ipsum. Aliquam eget eros blandit, volutpat risus in, posuere quam. Cras pulvinar vitae elit at varius. Cras hendrerit lectus sed vehicula luctus.",
+  "orginal_price": "900",
+  "discount_price": "700",
+  "currency": "EUR",
+  "country_code": "UK",
+  "category": "electronic",
+  "verified": "true",
+  "target_link": "https://www.x-kom.pl/"
+}
