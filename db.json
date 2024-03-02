@@ -1,5 +1,4 @@
-{
-    [
+
     {
         "title": "My Product 1",
         "description": "The first of its kind, offering unparalleled performance.",
@@ -22,5 +21,3 @@
         "verified": true,
         "target_link": "https://example.com/product2"
     }
-    ]
-}
