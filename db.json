@@ -116,4 +116,19 @@
     "discount_price": "1650",
     "currency": "RUB",
     "country_code": "RU",
-    "category":
+    "category": "technology",
+    "verified": false,
+    "target_link": "https://example.com/product11"
+  },
+  {
+    "title": "My Product 12",
+    "description": "Where elegance meets functionality, for those who want the best.",
+    "original_price": "1400",
+    "discount_price": "1350",
+    "currency": "SEK",
+    "country_code": "SE",
+    "category": "home decor",
+    "verified": true,
+    "target_link": "https://example.com/product12"
+  }
+]
