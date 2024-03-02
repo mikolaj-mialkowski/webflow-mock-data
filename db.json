@@ -1,6 +1,7 @@
 {
     "products": [
         {
+            "id": 1,
             "title": "My Product 1",
             "description": "The first of its kind, offering unparalleled performance.",
             "original_price": "1200",
@@ -12,6 +13,7 @@
             "target_link": "https://example.com/product1"
         },
         {
+            "id": 2,
             "title": "My Product 2",
             "description": "Eco-friendly and efficient, this product is ahead of its time.",
             "original_price": "1500",
@@ -23,6 +25,7 @@
             "target_link": "https://example.com/product2"
         },
         {
+            "id": 3,
             "title": "My Product 3",
             "description": "Compact, durable, and powerful, perfect for on-the-go.",
             "original_price": "500",
@@ -34,6 +37,7 @@
             "target_link": "https://example.com/product3"
         },
         {
+            "id": 4,
             "title": "My Product 4",
             "description": "A game-changer in its category, offering best-in-class features.",
             "original_price": "800",
@@ -45,6 +49,7 @@
             "target_link": "https://example.com/product4"
         },
         {
+            "id": 5,
             "title": "My Product 5",
             "description": "Unmatched quality and craftsmanship, a true luxury item.",
             "original_price": "2200",
@@ -56,6 +61,7 @@
             "target_link": "https://example.com/product5"
         },
         {
+            "id": 6,
             "title": "My Product 6",
             "description": "Innovative design meets functionality, a must-have for professionals.",
             "original_price": "950",
@@ -67,6 +73,7 @@
             "target_link": "https://example.com/product6"
         },
         {
+            "id": 7,
             "title": "My Product 7",
             "description": "Bringing the latest technology to your home with ease and style.",
             "original_price": "1300",
@@ -78,6 +85,7 @@
             "target_link": "https://example.com/product7"
         },
         {
+            "id": 8,
             "title": "My Product 8",
             "description": "Redefining comfort and efficiency, with cutting-edge advancements.",
             "original_price": "1100",
@@ -89,6 +97,7 @@
             "target_link": "https://example.com/product8"
         },
         {
+            "id": 9,
             "title": "My Product 9",
             "description": "A blend of tradition and innovation, for discerning customers.",
             "original_price": "1600",
@@ -100,6 +109,7 @@
             "target_link": "https://example.com/product9"
         },
         {
+            "id": 10,
             "title": "My Product 10",
             "description": "Experience the ultimate in performance and reliability.",
             "original_price": "2000",
@@ -111,6 +121,7 @@
             "target_link": "https://example.com/product10"
         },
         {
+            "id": 11,
             "title": "My Product 11",
             "description": "A pioneer in its field, setting new standards for others to follow.",
             "original_price": "1700",
@@ -122,6 +133,7 @@
             "target_link": "https://example.com/product11"
         },
         {
+            "id": 12,
             "title": "My Product 12",
             "description": "Where elegance meets functionality, for those who want the best.",
             "original_price": "1400",
