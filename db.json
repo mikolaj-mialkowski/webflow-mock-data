@@ -89,4 +89,72 @@
             "category": "home appliances",
             "verified": true,
             "image_link": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-medium,,2019/12/pr_2019_12_17_9_23_11_552_00.jpg",
-            "target_link":
+            "target_link": "https://example.com/product7"
+        },
+        {
+            "id": 8,
+            "title": "My Product 8",
+            "description": "Redefining comfort and efficiency, with cutting-edge advancements.",
+            "original_price": "1100",
+            "discount_price": "1050",
+            "currency": "CNY",
+            "country_code": "CN",
+            "category": "furniture",
+            "verified": false,
+            "image_link": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-medium,,2024/2/pr_2024_2_15_11_25_41_88_05.jpg",
+            "target_link": "https://example.com/product8"
+        },
+        {
+            "id": 9,
+            "title": "My Product 9",
+            "description": "A blend of tradition and innovation, for discerning customers.",
+            "original_price": "1600",
+            "discount_price": "1500",
+            "currency": "INR",
+            "country_code": "IN",
+            "category": "jewelry",
+            "verified": true,
+            "image_link": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-medium,,2020/11/pr_2020_11_26_13_10_37_932_00.jpg",
+            "target_link": "https://example.com/product9"
+        },
+        {
+            "id": 10,
+            "title": "My Product 10",
+            "description": "Experience the ultimate in performance and reliability.",
+            "original_price": "2000",
+            "discount_price": "1900",
+            "currency": "BRL",
+            "country_code": "BR",
+            "category": "automotive",
+            "verified": true,
+            "image_link": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-medium,,2023/9/pr_2023_9_20_11_37_22_774_00.jpg",
+            "target_link": "https://example.com/product10"
+        },
+        {
+            "id": 11,
+            "title": "My Product 11",
+            "description": "A pioneer in its field, setting new standards for others to follow.",
+            "original_price": "1700",
+            "discount_price": "1650",
+            "currency": "PLN",
+            "country_code": "PL",
+            "category": "technology",
+            "verified": false,
+            "image_link": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-medium,,2023/6/pr_2023_6_23_8_2_43_818_00.jpg",
+            "target_link": "https://example.com/product11"
+        },
+        {
+            "id": 12,
+            "title": "My Product 12",
+            "description": "Where elegance meets functionality, for those who want the best.",
+            "original_price": "1400",
+            "discount_price": "1350",
+            "currency": "SEK",
+            "country_code": "SE",
+            "category": "home decor",
+            "verified": true,
+            "image_link": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-medium,,2022/12/pr_2022_12_8_6_53_7_77_00.jpg",
+            "target_link": "https://example.com/product12"
+        }
+    ]
+}
